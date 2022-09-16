@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/hello124-wq/](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)">
 </div>
 
 </br>
